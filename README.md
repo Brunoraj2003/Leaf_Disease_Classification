@@ -1,8 +1,11 @@
 🍃 Mango Leaf Disease Classification
+
 📌 Overview
+
 This project focuses on classifying mango leaf diseases using computer vision techniques. By leveraging object detection models like YOLOv5 and YOLOv8, the system identifies and categorizes different diseases affecting mango leaves, enabling early intervention for better crop health management.
 
 🏆 Features
+
 ✅ Automated detection of six mango leaf diseases
 ✅ Utilizes YOLOv5 & YOLOv8 for object detection
 ✅ High-accuracy classification using polygon labeling
@@ -22,6 +25,7 @@ Gall Midge
 Die Back
 Bacterial Canker
 Healthy Leaves
+
 🚀 Model Training & Evaluation
 The dataset was split into training, validation, and testing sets. Two models were trained and evaluated using accuracy, precision, recall, and F1-score.
 
